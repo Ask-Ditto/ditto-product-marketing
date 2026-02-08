@@ -1,0 +1,34 @@
+{
+  "name": "ditto-product-marketing",
+  "description": "PMM research skill for Claude Code. 8 study types with proven 7-question frameworks: positioning validation, messaging testing, competitive intelligence, pricing & packaging, GTM validation, product launches, buyer personas, and brand tracking. Uses Ditto's 300K+ synthetic personas. Generates battlecards, messaging hierarchies, and positioning scorecards.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ditto (Ask Ditto Inc.)",
+    "email": "support@askditto.io"
+  },
+  "homepage": "https://askditto.io/claude-code/installing-product-marketing-skill",
+  "repository": "https://github.com/Ask-Ditto/ditto-product-marketing",
+  "license": "MIT",
+  "keywords": [
+    "product-marketing",
+    "positioning",
+    "messaging",
+    "competitive-intelligence",
+    "battlecard",
+    "pricing-research",
+    "gtm-strategy",
+    "buyer-persona",
+    "brand-tracking",
+    "synthetic-personas",
+    "ditto",
+    "pmm"
+  ],
+  "category": "research",
+  "tags": [
+    "research",
+    "marketing",
+    "product-marketing",
+    "competitive-analysis",
+    "api-integration"
+  ]
+}
